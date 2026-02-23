@@ -18,9 +18,10 @@
 
 <br>
 
-<div>
-  <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMachado16&layout=compact&langs_count=8&theme=tokyonight&border_color=2f353d" alt="Linguagens mais usadas">
-  <img height=190 src="https://github-readme-stats.vercel.app/api?username=MatheusMachado16&show_icons=true&theme=tokyonight&border_color=2f353d" alt="Estatísticas do GitHub"/>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=MatheusMachado16&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusMachado16&theme=tokyonight" />
 </div>
 
 ## 🤝 Conecte-se comigo
