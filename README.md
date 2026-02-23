@@ -2,6 +2,8 @@
 
 🎓 Graduando em Engenharia de Software pelo IFPB.
 
+---
+
 ## 🛠️ Meu Arsenal Técnico
 
 <div style="display: inline_block">
@@ -16,13 +18,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=MatheusMachado16&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusMachado16&theme=tokyonight" />
-</div>
+---
 
 ## 🤝 Conecte-se comigo
 
@@ -34,9 +30,3 @@
 </a>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
