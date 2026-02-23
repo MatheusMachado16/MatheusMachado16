@@ -24,7 +24,6 @@
 </div>
 
 ## 🤝 Conecte-se comigo
-Estou sempre aberto a novos desafios, parcerias em projetos e aquela boa conversa sobre tech. 
 
 <a href="https://www.linkedin.com/in/matheus-machado-2114932b4/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
